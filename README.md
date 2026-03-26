@@ -4,6 +4,11 @@
 
 # pkg.pr.new <span><img src="https://emoji.slack-edge.com/TFHDVN56F/stackblitz/fd010078dcccebca.png" width="30" /></span>
 
+[![pkg.pr.new](https://pkg.pr.new/badge/vundle-vim/vun.nim}https://pkg.pr.new/~/badge/OWNER/REPO)
+
+
+[pkg.pr.new](https://pkg.pr.new/~/badge/OWNER/REPO)
+
 > We call it "Continuous Releases" too.
 
 With pkg.pr.new, each of your commits and pull requests will trigger an instant preview release without publishing anything to NPM. This enables users to access features and bug-fixes without the need to wait for release cycles using npm or pull request merges.
